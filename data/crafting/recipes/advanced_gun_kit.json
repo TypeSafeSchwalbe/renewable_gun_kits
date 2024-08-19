@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "alloyedguns:advanced_gun_kit"
+        },
+        {
+            "item": "create:sturdy_sheet"
+        },
+        {
+            "item": "create:precision_mechanism"
+        }
+    ],
+    "result": {
+        "item": "alloyedguns:advanced_gun_kit",
+        "count": 2
+    }
+}

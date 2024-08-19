@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "alloyedguns:basic_gun_kit"
+        },
+        {
+            "item": "create:sturdy_sheet"
+        },
+        {
+            "item": "alloyedguns:small_steel_pipe"
+        }
+    ],
+    "result": {
+        "item": "alloyedguns:basic_gun_kit",
+        "count": 2
+    }
+}
